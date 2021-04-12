@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Akarsh</h1>
+<h1 align="center">I'm Akarsh</h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarshsatija&show_icons=true&locale=en" alt="akarshsatija" /></p>
 
