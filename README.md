@@ -4,7 +4,7 @@
 
 - 🌱 &nbsp;Building Data platform stack for [@goto](https://github.com/goto)
 - 💬 &nbsp;Let's talk about Engineering Platforms - Data, Infrastructure and whatnot
-- 👨‍💻 &nbsp;More about me at [akarsh.me](https://akarsh.me)
+- 👨‍💻 &nbsp;More about me at [akar.sh](https://akar.sh)
 
 ----------
 
