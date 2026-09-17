@@ -2,8 +2,8 @@
 <h1 align="center">I'm Akarsh</h1>
 
 
-- 🌱 &nbsp;Building Data platform stack for [@goto](https://github.com/goto)
-- 💬 &nbsp;Let's talk about Engineering Platforms - Data, Infrastructure and whatnot
+- 🌱 &nbsp;Building Engineering platform for [@goto](https://github.com/goto)
+- 💬 &nbsp;Let's talk about Engineering Platforms - Data, Infrastructure, Reliability and whatnot
 - 👨‍💻 &nbsp;More about me at [akar.sh](https://akar.sh)
 
 ----------
